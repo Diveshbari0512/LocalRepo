@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 38bf1f4..d5430c3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1,8 @@[m
+ <p>Hey this is divesh Bari</p>[m
+ <p>This is a new feature</p>[m
+ <p>This is something new</p>[m
+[32m+[m[32m<<<<<<< HEAD[m
+[32m+[m[32m<p>Here we are {dropdown}</p>[m
+[32m+[m[32m=======[m
+ <p>Here we are {button}</p>[m
+[32m+[m[32m>>>>>>> main[m
